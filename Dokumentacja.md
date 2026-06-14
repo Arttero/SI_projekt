@@ -1,6 +1,6 @@
 # Dokumentacja Projektowa: Cyberpunk Snake
 
-Niniejsze opracowanie stanowi dokumentację techniczną oraz omówienie teoretyczne projektu dwuosobowej gry zręcznościowej Cyberpunk Snake zaimplementowanej w języku Python (Pygame). Głównym celem projektu było stworzenie w pełni funkcjonalnego środowiska gry oraz implementacja autonomicznego bota podejmującego decyzje w oparciu o algorytmy teorii gier i przeszukiwania przestrzeni.
+Głównym celem projektu było stworzenie w pełni funkcjonalnego środowiska gry oraz implementacja autonomicznego bota podejmującego decyzje w oparciu o algorytmy teorii gier i przeszukiwania przestrzeni.
 
 ## 1. Wstęp i Wymagania Projektowe
 Projekt to połączenie klasycznej gry "Snake'a" z elementami gry "Tron: Light Cycles", wzbogacona o rozbudowaną grafikę w trzech motywach oraz w pełni funkcjonalnego bota opierającego się na sztucznej inteligencji. 
